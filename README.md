@@ -1,2 +1,2 @@
-# collegiumwitelona-INFO-bazydanych-lab
+# collegiumwitelona-INFO-bazydanych
 school projects
